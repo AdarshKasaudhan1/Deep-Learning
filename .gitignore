@@ -1,0 +1,45 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS Metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local raw datasets & auxiliary university coursework folders
+CNN datta/
+NLP & DWM/
+/COURSERA DL Codes.docx
+/seattle-weather.csv
+
+# Local loose workspace duplicates at repository root (tracked canonically under Weekly Task/)
+/Assignment 3_Deep_Learning_Architectures.pdf
+/Deep_Learning_Presentation .pptx
+/diabetes.csv
+/Dl assignment neural network.pdf
+/Dl_assignment_5.ipynb
+/Project 4 Ethical Consideration .pdf
+/Project 4 Ethical Consideration 2.docx
+/PROJECT_10_Overfitting_and_Underfitting_Analysis.ipynb
+/Project_11_Handwritten_Digit_Classification_Using_CNN_.ipynb
+/Project_12_Understanding_Convolution_and_Pooling.ipynb
+/Project_6_Simple_Neural_Network_Forward_Propagation.ipynb
+/Project_7_Loss_Function_Implementation_.ipynb
+/Project_8_Gradient_Descent_Implementation.ipynb
+/dl_assgn_09.ipynb
+/dl_assgn_13.ipynb
